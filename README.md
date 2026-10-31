@@ -23,9 +23,6 @@ The project was developed to simplify library management activities through a us
 
 [Watch the Library Management System Demo][https://youtu.be/NFFSQGbUPY4]
 
-## Project Screenshots
-
-Add screenshots of the login page, dashboard, student registration, and book management screens here.
 
 ## How to Run
 
